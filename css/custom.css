@@ -259,4 +259,21 @@ margin-bottom:100px !important;
         border-bottom:none;
     }
 
+/* Ajustes para el navbar y el título */
+.navbar-brand {
+    height: auto !important;
+    padding: 15px !important;
+    white-space: normal !important;
+    line-height: 1.2 !important;
+    font-size: 18px !important;
+}
+
+.navbar-default.navbar-side {
+    margin-top: 60px !important;
+}
+
+.navbar-cls-top {
+    height: auto !important;
+    min-height: 60px !important;
+}
 /*****end of my css******/

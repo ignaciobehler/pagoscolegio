@@ -9,7 +9,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.php">Pagos ConfiguroWeb</a>
+                <a class="navbar-brand" href="index.php">Sistema de Pagos Insistuto Carlos Linneo</a>
             </div>
 
         </nav>

@@ -10,7 +10,7 @@ include("php/checklogin.php");
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Sistema de Pago Escolar</title>
+    <title>Sistema de Pago Escolar ICL</title>
 
     <!-- BOOTSTRAP STYLES-->
     <link href="css/bootstrap.css" rel="stylesheet" />
@@ -84,7 +84,7 @@ include("php/header.php");
     <!-- /. WRAPPER  -->
 
     <div id="footer-sec">
-    Para más desarrollos gratuitos, accede a <a href="https://www.configuroweb.com/" target="_blank">ConfiguroWeb</a>
+    Ignacio Behler - Emiliano Lukoski</a>
     </div>
    
    <script src="js/jquery-1.10.2.js"></script>	
